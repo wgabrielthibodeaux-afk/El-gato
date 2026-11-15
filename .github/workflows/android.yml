@@ -1,4 +1,4 @@
-name: Build APK
+name: app/build.gradle
 on:
   push:
   workflow_dispatch:
